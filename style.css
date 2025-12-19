@@ -9,7 +9,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  padding-top: 60px;
+  padding-top: 10px;
 }
 section {
   /* min-height: 100vh; */
@@ -389,5 +389,6 @@ footer{
     padding-bottom: 10px;
   }
 }
+
 
 
