@@ -309,7 +309,7 @@ footer{
 
   .heromsg {
     font-size: large;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .heromsg h1 {
@@ -385,3 +385,4 @@ footer{
     padding-bottom: 10px;
   }
 }
+
