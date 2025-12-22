@@ -333,6 +333,7 @@ footer{
   #gallery {
     flex-direction: column;
     gap: 20px;
+    padding-top:100px;
   }
 
   .gallery-window {
@@ -360,6 +361,7 @@ footer{
     flex-direction: column;
     text-align: center;
     gap: 20px;
+    padding-top: 100px;
   }
 
   .contact {
@@ -392,6 +394,7 @@ footer{
     padding-bottom: 10px;
   }
 }
+
 
 
 
