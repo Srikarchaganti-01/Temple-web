@@ -73,9 +73,6 @@ section {
 .navbar li:hover::after {
   transform: scaleX(1);
 }
-.left{
-  display : none;
-}
 .herocont {
   display: flex;
   justify-content: start;
@@ -302,6 +299,9 @@ footer{
     padding: 5px 10px;
   }
 
+  .left{
+    display : none;
+  }
   /* ---------- HERO SECTION ---------- */
   .herocont {
     height: auto;
@@ -394,6 +394,7 @@ footer{
     padding-bottom: 10px;
   }
 }
+
 
 
 
